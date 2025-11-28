@@ -59,6 +59,8 @@ sudo apt install ffmpeg
 
 3. Загрузите модели в каталог `models`. Инструкция по установке моделей приложена <a href="./models/README.md">здесь</a>.
 
+4. Основываясь на содержимом файла <a href="./.env.example">`.env.example`</a>, создайте собственный `.env`-файл, добавив в него API-токены OpenRouter и Telegram-бота.
+
 ## Запуск
 
 ```
