@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/703lovelost/elderly-companion-bot">
-    <img src="./docs_src/preview.png" alt="Logo" width="400" height="200">
+    <img src="./docs_src/preview.png" alt="Logo" style="width: 500px; height: auto;">
   </a>
 
   <h3 align="center">Голосовой собеседник для пожилых людей</h3>
@@ -58,6 +58,8 @@ sudo apt install ffmpeg
 ```
 
 3. Загрузите модели в каталог `models`. Инструкция по установке моделей приложена <a href="./models/README.md">здесь</a>.
+
+4. Основываясь на содержимом файла <a href="./.env.example">`.env.example`</a>, создайте собственный `.env`-файл, добавив в него API-токены OpenRouter и Telegram-бота.
 
 ## Запуск
 
