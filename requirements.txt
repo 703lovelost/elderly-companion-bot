@@ -4,3 +4,4 @@ torch==2.4.1
 transformers==4.45.2
 python-telegram-bot==21.6
 pydub==0.25.1
+python-dotenv>=1.0.0
