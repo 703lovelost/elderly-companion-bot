@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/703lovelost/elderly-companion-bot">
-    <img src="./docs_src/preview.png" alt="Logo" width="150" height="150">
+    <img src="./docs_src/preview.png" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">Голосовой собеседник для пожилых людей</h3>
@@ -35,7 +35,7 @@ Telegram-бот, который принимает голосовые сообщ
 
 - **Python 3.10+**
 - **[python-telegram-bot 20+](https://python-telegram-bot.org/)** для инициализации бота
-- **[whisper-podlodka-turbo](https://github.com/openai/whisper)** для транскрибации речи пользователя
+- **[whisper-podlodka-turbo](https://huggingface.co/bond005/whisper-podlodka-turbo)** для транскрибации речи пользователя
 - **[Silero TTS ru_v5](https://github.com/snakers4/silero-models)** для синтеза русской речи
 - **[OpenRouter](https://openrouter.ai/)** в качестве шлюза к языковой модели
 
