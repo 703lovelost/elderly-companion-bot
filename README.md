@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/703lovelost/elderly-companion-bot">
-    <img src="./docs_src/preview.png" alt="Logo" width="400" height="200">
+    <img src="./docs_src/preview.png" alt="Logo" style="width: 500px; height: auto;">
   </a>
 
   <h3 align="center">Голосовой собеседник для пожилых людей</h3>
